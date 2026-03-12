@@ -4,7 +4,7 @@
 
 # Yggdrasil Node
 
-**Yggdrasil Node** is a dedicated Cardano stake pool operator committed to supporting the decentralization and security of the Cardano blockchain.
+**Yggdrasil Node** is a dedicated Cardano entusiast committed to supporting the decentralization and security of the Cardano blockchain.
 
 ## About Us
 
@@ -25,7 +25,7 @@ Our primary project — the infrastructure and tooling for running Cardano stake
 
 ## Getting Involved
 
-We welcome delegators, contributors, and collaborators. Whether you want to stake your ADA with us or contribute to our tooling, we'd love to hear from you.
+We welcome contributors, and collaborators. Whether you want to contribute to our tooling, we'd love to hear from you.
 
 - 🐦 Follow us on social media for pool performance updates
 - 💬 Open an issue or discussion in any of our repositories
