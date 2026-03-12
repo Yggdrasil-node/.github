@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Yggdrasil_node_full_logo.png" alt="Yggdrasil Node Logo" width="600"/>
+  <img src="../images/Yggdrasil_node_full_logo.png" alt="Yggdrasil Node Logo" width="600"/>
 </p>
 
 # Yggdrasil Node
